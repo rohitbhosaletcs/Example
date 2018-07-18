@@ -1,2 +1,2 @@
 # Example
-Example to learn git
+Test Github is a repository.
