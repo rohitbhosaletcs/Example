@@ -16,7 +16,7 @@ public class FirstTest {
 	
 	@Test
 	public void thirdTest(){
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 	}
 
 
