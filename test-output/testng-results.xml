@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="180" started-at="2018-07-22T15:26:31Z" finished-at="2018-07-22T15:26:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="180" started-at="2018-07-22T15:26:31Z" finished-at="2018-07-22T15:26:31Z">
+      <class name="com.example.SecondTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.example.SecondTest@6a024a67]" name="firstTest" duration-ms="7" started-at="2018-07-22T20:56:31Z" finished-at="2018-07-22T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:com.example.SecondTest@6a024a67]" name="secondTest" duration-ms="5" started-at="2018-07-22T20:56:31Z" finished-at="2018-07-22T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:com.example.SecondTest@6a024a67]" name="thirdTest" duration-ms="5" started-at="2018-07-22T20:56:31Z" finished-at="2018-07-22T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- com.example.SecondTest -->
+      <class name="com.example.FirstTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:com.example.FirstTest@458ad742]" name="firstTest" duration-ms="42" started-at="2018-07-22T20:56:31Z" finished-at="2018-07-22T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:com.example.FirstTest@458ad742]" name="secondTest" duration-ms="6" started-at="2018-07-22T20:56:31Z" finished-at="2018-07-22T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:com.example.FirstTest@458ad742]" name="thirdTest" duration-ms="6" started-at="2018-07-22T20:56:31Z" finished-at="2018-07-22T20:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- com.example.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
