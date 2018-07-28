@@ -1,22 +1,17 @@
 package com.example;
 
-import org.testng.Assert;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 import org.testng.annotations.Test;
 
 public class FirstTest {
 	@Test
-	public void firstTest(){
-		Assert.assertTrue(true);
-	}
-
-	@Test
-	public void secondTest(){
-		Assert.assertTrue(true);
-	}
-	
-	@Test
-	public void thirdTest(){
-		Assert.assertTrue(true);
+	public void firstTest() throws InterruptedException{
+		System.setProperty("webdriver.chrome.driver", "F:/Software/Chrome Driver/chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		Thread.sleep(2000);
+		driver.quit();
 	}
 
 
