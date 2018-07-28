@@ -13,6 +13,11 @@ public class SecondTest {
 	public void secondTest(){
 		Assert.assertTrue(true);
 	}
+
+@Test
+	public void thirdTest(){
+		Assert.assertTrue(true);
+	}
 	
 	
 }
