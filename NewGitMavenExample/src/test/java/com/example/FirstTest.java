@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class FirstTest {
 	@Test
 	public void firstTest() throws InterruptedException{
-		System.setProperty("webdriver.chrome.driver", "F:/Software/Chrome Driver/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "F:/Software/Chrome Driver/v2.41/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		Thread.sleep(2000);
 		driver.quit();
