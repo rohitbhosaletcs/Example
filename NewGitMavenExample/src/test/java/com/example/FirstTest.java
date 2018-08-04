@@ -11,6 +11,7 @@ public class FirstTest {
 		System.setProperty("webdriver.chrome.driver", "F:/Software/Chrome Driver/v2.41/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("www.google.com");
+		
 		Thread.sleep(2000);
 		driver.quit();
 	}
