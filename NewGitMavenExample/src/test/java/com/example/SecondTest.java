@@ -14,10 +14,10 @@ public class SecondTest {
 		Assert.assertTrue(true);
 	}
 
-@Test
+/*@Test
 	public void thirdTest(){
 		Assert.assertTrue(true);
-	}
+	}*/
 	
 	
 }
