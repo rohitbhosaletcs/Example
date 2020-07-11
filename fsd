@@ -1,0 +1,293 @@
+[33mcommit 87078e6bc8b63058f15e04b81172acf28c77b233[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 11 18:35:22 2020 +0530
+
+    11 july 6.35 PM
+
+[33mcommit 56735cf8bfd113f593f749af3ff0692d9e24abd5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rohitbhosaletcs <35333271+rohitbhosaletcs@users.noreply.github.com>
+Date:   Sat Jul 11 18:05:35 2020 +0530
+
+    Delete Bhosale.txt
+
+[33mcommit 03e71b4e07b566b7d3a0afeab15a8a6681e0559b[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Aug 10 20:10:58 2019 +0530
+
+    updated Second.java
+
+[33mcommit b18688395f4801f0c7e113e439243b03fc4874f7[m
+Author: rohitbhosaletcs <35333271+rohitbhosaletcs@users.noreply.github.com>
+Date:   Sat Aug 10 19:50:36 2019 +0530
+
+    updated
+
+[33mcommit 5ac6d53a98be5d97beaa14d91b01294df60d0fe7[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Aug 10 19:47:34 2019 +0530
+
+    updated Bhosale.txt
+
+[33mcommit bd8e6d9732f8625c696687cb1f2573b279e57bc3[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Feb 3 19:42:17 2019 +0530
+
+    deleted rohit.txt
+
+[33mcommit 6764bcea0dfb64c1b171a2722f249c46b11bb048[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Feb 3 19:38:34 2019 +0530
+
+    deleted vaij.text
+
+[33mcommit 52215a81a724048423117e7266fc5499eba2d478[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Feb 3 19:36:43 2019 +0530
+
+    modified vaij.text
+
+[33mcommit 94fbc7790102af4de7a8cb8576a9f5f28f6bf4bf[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Feb 3 19:34:40 2019 +0530
+
+    added text file
+
+[33mcommit cfe32283a2de1c80f9137cb09b236ef07c4ffe97[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Feb 3 19:30:51 2019 +0530
+
+    added text file
+
+[33mcommit 398cdf7e7f59c94c1bc1e4a66117b5ae54604f9d[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Aug 4 13:20:48 2018 +0530
+
+    comment
+
+[33mcommit 75e45829bd49972001fa01cd5483a63bb16c4770[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Aug 4 13:16:05 2018 +0530
+
+    added driver.get("www.google.com");
+
+[33mcommit e31da016cdd43c4b28e066cabf779cca1d1bda02[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Aug 4 12:56:31 2018 +0530
+
+    Changed chromedriver path
+
+[33mcommit e1fbc189c44294421e5273574ce461fb2c133b04[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 16:05:22 2018 +0530
+
+    added
+
+[33mcommit bc4b9ac8a9112a0a069111427dc825495add9675[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 16:01:39 2018 +0530
+
+    pom.xml : added selenium dependancy
+    fisrtTest.java : added browser launching code
+
+[33mcommit 9c887c3f0a0f501165c00646d7979827a23dc949[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 12:50:38 2018 +0530
+
+    added
+
+[33mcommit 15e6b28e2603b2393038d69357550a8dd6327925[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 12:46:37 2018 +0530
+
+    commented
+
+[33mcommit 471015ad7a88ecdb3aabea2585447acfb39f05c2[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 12:02:18 2018 +0530
+
+    added
+
+[33mcommit 5bc8f6b7264d4d48244c335f6afc2965d471c49e[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 11:32:55 2018 +0530
+
+    add thirdTest test
+
+[33mcommit d7d088c026c5a771beecd7a396b4b6b4aa3b29f7[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sat Jul 28 10:56:29 2018 +0530
+
+    deleted thirdTest test.
+
+[33mcommit ab640bef4ea46505fb0d730ea4376ddbcc7b6e7a[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 25 22:41:34 2018 +0530
+
+    reports updated
+
+[33mcommit 0bdd8f5e5c7df6f6db74cd62796fd5bf8b4b92ee[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 25 21:39:36 2018 +0530
+
+    deleted
+
+[33mcommit d69cfbc0177a7d5ff12dbbbd85d9c80a2e24ae9b[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 25 21:34:40 2018 +0530
+
+    changed in first.java
+
+[33mcommit 7c831a04a258fcf05e287a5867a37480ef491abb[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Tue Jul 24 23:32:06 2018 +0530
+
+    added file in repo
+
+[33mcommit 42ae50b892c0f59eb2dd16bc4835f04b2d377eb4[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Tue Jul 24 22:59:14 2018 +0530
+
+    Updated project
+
+[33mcommit c7d15e57ca1701724fa1af16db952acda2f921bc[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Jul 22 21:20:39 2018 +0530
+
+    Added NewGitMavenExample to repo
+
+[33mcommit e96461efcb74f20ce358fa7731d4edb0c52ab762[m
+Merge: f3dabf3 df9a844
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Jul 22 21:09:52 2018 +0530
+
+    Merge branch 'master' of https://github.com/rohitbhosaletcs/Example
+
+[33mcommit df9a8444dc731749fb1af997ae3fce2bd41ac500[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Jul 22 21:07:31 2018 +0530
+
+    project deleted
+
+[33mcommit f3dabf3ce29064a22de9a75009e61da764877bcf[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Jul 22 21:02:54 2018 +0530
+
+    project GitExample, screenshot deleted
+
+[33mcommit a826b789c6c13eeca2a72291a4aeeebe188ce1f8[m
+Merge: 5d355ca c018e64
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Jul 22 18:38:22 2018 +0530
+
+    Merge branch 'master' of https://github.com/rohitbhosaletcs/Example.git
+    
+    Conflicts:
+            GitExample/src/com/example/First.java
+
+[33mcommit 5d355ca23addbd82d9ef4ac4964e93f44cfbb3e5[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Sun Jul 22 18:31:40 2018 +0530
+
+    added in First.java
+
+[33mcommit c018e64b1c22d895ccba25a5db241ef02dd69d8b[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Fri Jul 20 10:58:35 2018 +0530
+
+    .project file deleted
+
+[33mcommit d78a5442f15f08408022308b22611abd0c5c9d00[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Fri Jul 20 10:42:20 2018 +0530
+
+    changed in first.java
+
+[33mcommit bed9edf977b487fb21879e3d240855b3c92bbbc7[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 23:26:18 2018 +0530
+
+    edit
+
+[33mcommit 12f0855fa994262b39f4bb7e73d25aee1f336e7b[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 23:20:19 2018 +0530
+
+    Added Third.java and edited First.java
+
+[33mcommit 48e6b9160449c59808676359f42973259df78708[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 23:13:11 2018 +0530
+
+    Created GiExampl project
+
+[33mcommit 2f47174837d90d9eb552619ecab3fa96e4a0c511[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 18:50:30 2018 +0530
+
+    from eclipse
+
+[33mcommit fa1c4bd72b6b125ee340eed765c6c46bffca1622[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 17:53:23 2018 +0530
+
+    added new screenshot
+
+[33mcommit 391c2ec5a2a71feeb2d19d701c50e4bdd247fa32[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 10:32:22 2018 +0530
+
+    README file is updated
+
+[33mcommit 7085d2694a391c8b610c383c9848584b59c4cdd7[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Thu Jul 19 00:04:00 2018 +0530
+
+    files are deleted
+
+[33mcommit 5ea4ae262d73c7393510deac642b77fae3ade241[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 18 23:58:56 2018 +0530
+
+    Rohit is deleted
+
+[33mcommit 9c00c3c2d105caa5c7a4bf426424ae513c8f2210[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 18 23:57:01 2018 +0530
+
+    testfile is deleted
+
+[33mcommit 67035c7b8c4d33d0f4242a6be3db0f73b873fbd7[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 18 23:51:18 2018 +0530
+
+    added project folder
+
+[33mcommit 00098d5d5a0a4585b7b1323083eb73aa6b52ab96[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 18 23:43:28 2018 +0530
+
+    Added new file
+
+[33mcommit 4214ddcd6560f318aa582ba8a6249ebc392b7fee[m
+Author: rohitbhosaletcs <35333271+rohitbhosaletcs@users.noreply.github.com>
+Date:   Wed Jul 18 23:39:52 2018 +0530
+
+    Create Rohit
+
+[33mcommit f7e486fbbbdd50a0e88d0961d5a11ffa95af4c0b[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 18 23:27:48 2018 +0530
+
+    test file text is added
+
+[33mcommit e5a4eab5a76c2503cce7c6ad760a09cfe7aa4138[m
+Author: rohitbhosaletcs <bhosale111rohit@gmail.com>
+Date:   Wed Jul 18 23:13:36 2018 +0530
+
+    upadated readme file for better description
+
+[33mcommit 348980d5e54fccba7e383635b4872555c43bfd6b[m
+Author: rohitbhosaletcs <35333271+rohitbhosaletcs@users.noreply.github.com>
+Date:   Tue Jul 17 10:49:40 2018 +0530
+
+    Initial commit
